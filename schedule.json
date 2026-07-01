@@ -1,0 +1,29 @@
+{
+  "_instructions": "Ye aapka posting schedule hai. Har din ke liye ek entry banayein. 'time' 24-hour format mein UTC hai. 'caption' agar khali chorden ge to AI khud topic se caption bana dega. Jab schedule khatam hoga (last entry ke baad), system automatically WAPAS DAY 1 se shuru kar dega (loop). Naya month dena ho to bas is list mein nayi entries add/replace kar dein.",
+
+  "start_date": "2026-07-01",
+
+  "posts": [
+    {
+      "day": 1,
+      "time": "10:00",
+      "topic": "Motivational quote about hard work and success",
+      "caption": "",
+      "image_prompt": "inspirational sunrise over mountains, motivational quote style, vibrant colors"
+    },
+    {
+      "day": 2,
+      "time": "10:00",
+      "topic": "Product/business tip of the day",
+      "caption": "",
+      "image_prompt": "modern clean flat lay business desk, minimal aesthetic"
+    },
+    {
+      "day": 3,
+      "time": "18:00",
+      "topic": "Fun fact related to our niche",
+      "caption": "",
+      "image_prompt": "colorful infographic style illustration, fun fact concept"
+    }
+  ]
+}
